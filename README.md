@@ -16,14 +16,14 @@
 
 ## Screenshots
 
--Home page
+- Home page
 ![Alt text](images/1.png)
 
 ![Alt text](images/2.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------                         
 
-Amazon Product to be tracked (Xiaomi 125cm X 4K Dolby Vision Smart Google TV)
+- Amazon Product to be tracked (Xiaomi 125cm X 4K Dolby Vision Smart Google TV)
 ![Alt text](images/3.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
