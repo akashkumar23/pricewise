@@ -14,8 +14,8 @@
 - Deployment: Vercel
 
 ## Folder Structure
+![Alt text](images/9.png)<br>
 ![Alt text](images/8.png)
-![Alt text](images/9.png)
 
 -------
 ## Video Demo : 
