@@ -5,7 +5,7 @@
 
 ------
 ## Demo Video
-[![Video Title](images/1.png)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/blXYUOsqPjI))
+[![Video Title](images/1.png)](https://www.youtube.com/watch?v=blXYUOsqPjI)
 
 ------
 ## Technologies Used:
