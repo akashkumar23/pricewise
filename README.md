@@ -7,7 +7,7 @@
 ## Technologies Used:
 
 
-- Web Scraping: Cheerio, Regular Expressions
+- Web Scraping: Cheerio, BrightData
 - Frontend: React, Next.js
 - Backend: Node.js, Node Mailer
 - Database: MongoDB
