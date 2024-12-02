@@ -3,7 +3,11 @@
  - This is a powerful web-scraping tool that tracks product data(prices, descriptions, availability) from platforms like Amazon, resulting in a 35% faster data retrieval compared to similar solutions.
  - Implemented cron-jobs that automated daily scraping-tasks,leading to 100% timely up dates on product changes and improving user engagement with 15% higher notification response rates.
 
- 
+------
+## Demo Video
+[![Video Title](images/1.png)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/blXYUOsqPjI))
+
+------
 ## Technologies Used:
 
 
