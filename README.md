@@ -6,13 +6,22 @@
 
 ## Technologies Used:
 
-
 - Web Scraping: Cheerio, BrightData
 - Frontend: React, Next.js
 - Backend: Node.js, Node Mailer
 - Database: MongoDB
 - Automation: Cron Jobs
 - Deployment: Vercel
+
+## Folder Structure
+![Alt text](images/8.png)
+![Alt text](images/9.png)
+
+-------
+## Video Demo : 
+[![Watch the video](https://raw.githubusercontent.com/akashkumar23/pricewise/main/images/1.png)](https://raw.githubusercontent.com/akashkumar23/pricewise/main/images/pvideo.mp4)
+
+
 
 ## Screenshots
 
