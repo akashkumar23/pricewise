@@ -50,6 +50,10 @@
 ## Demo Video
 [![Video Title](images/1.png)](https://www.youtube.com/watch?v=blXYUOsqPjI)
 
+[![Watch the video](https://raw.githubusercontent.com/akashkumar23/pricewise/main/images/1.png)](https://raw.githubusercontent.com/akashkumar23/pricewise/main/images/pvideo.mp4)
+
+
+
 ------
 
 
